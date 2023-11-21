@@ -54,7 +54,7 @@ h3 {
 
 img {
     height: 150px;
-    border: 2px solid #E5E7EB;
+    border: 2px solid #7e3257;
 }
 
 .hero {
@@ -72,14 +72,6 @@ img {
     justify-content: space-between;
 }
 
-.header-logo {
-    display: flex;
-    font-size: 24px;
-    color: #F9FAF8;
-    align-items: center;
-    font-weight: 700;
-}
-
 .header-links {
     display:flex;
     align-items: center;
@@ -87,7 +79,7 @@ img {
 
 .top-banner {
     display: flex;
-    padding: 10vh 10vw;
+    padding: 8vh 10vw;
     gap: 100px;
     color: #E5E7EB;
 }
@@ -122,7 +114,7 @@ img {
 
 .float-quote {
     background-color: #E5E7EB;
-    font-size: 36px;
+    font-size: 34px;
     font-weight: 300;
     color: #1F2937;
     display: flex;
@@ -132,13 +124,14 @@ img {
 
 .signature {
     text-align: right;
+    font-size: 28px;
 }
 
 .newsletter-box {
     display: flex;
     background-color: #7e3257;
     padding: 25px;
-    margin: 5vh 15vw;
+    margin: 5vh 18vw;
     border-radius: 10px;
     justify-content: space-around;
 }
