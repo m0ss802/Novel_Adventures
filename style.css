@@ -32,7 +32,7 @@ h2 {
 }
 
 button {
-    background-color: #3882F6;
+    background-color: #7e3257;
     width: 100px;
     font-family: Roboto, sans-serif;
     border: none;
@@ -58,7 +58,7 @@ img {
 }
 
 .hero {
-    background-color: #1F2937;
+    background-color: #35413a;
     display: flex;
     flex-direction: column;
 }
@@ -136,7 +136,7 @@ img {
 
 .newsletter-box {
     display: flex;
-    background-color: #3882F6;
+    background-color: #7e3257;
     padding: 25px;
     margin: 5vh 15vw;
     border-radius: 10px;
@@ -160,7 +160,7 @@ img {
     justify-content: center;
     padding: 25px;
     align-items: center;
-    background-color: #1F2937;
+    background-color: #35413a;
     color: #E5E7EB;
 }
 
