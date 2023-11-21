@@ -47,6 +47,7 @@ h3 {
     color: #1F2937;
     text-align: center;
     background-color: white;
+    margin-top: 25px;
     margin-bottom: 0;
     padding-top: 25px;
 }
@@ -66,30 +67,27 @@ img {
     font-size: 18px;
     color: #E5E7EB;
     height: 50px;
-    padding: 0 10vw;
+    padding: 1vh 10vw;
     display: flex;
     justify-content: space-between;
 }
 
 .header-logo {
     display: flex;
-    /* margin-top: auto; */
     font-size: 24px;
     color: #F9FAF8;
     align-items: center;
-    /* padding: 50px; */
     font-weight: 700;
 }
 
 .header-links {
-    /* padding: 50px; */
     display:flex;
     align-items: center;
 }
 
 .top-banner {
     display: flex;
-    padding: 5vh 10vw;
+    padding: 10vh 10vw;
     gap: 100px;
     color: #E5E7EB;
 }
@@ -111,11 +109,15 @@ img {
     padding: 25px;
     justify-content: center;
     gap: 50px;
+    margin: 5vh 20vw;
+    margin-top: 25px;
 }
 
 .text {
     text-align: center;
     padding: 5px;
+    margin-top: 5px;
+    max-width: 150px;
 }
 
 .float-quote {
@@ -124,31 +126,31 @@ img {
     font-weight: 300;
     color: #1F2937;
     display: flex;
-    padding: 50px;
+    padding: 10vh 20vw;
     flex-direction: column;
+}
+
+.signature {
+    text-align: right;
 }
 
 .newsletter-box {
     display: flex;
     background-color: #3882F6;
     padding: 25px;
-    margin: 50px;
+    margin: 5vh 15vw;
     border-radius: 10px;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .call-to-action {
     display: flex;
     flex-direction: column;
-    margin: auto;
     color: white;
-    align-items: flex-start;
-    flex-grow: 0;
 }
 
 .button {
     display: flex;
-    margin: auto;
     justify-content: center;
 }
 
