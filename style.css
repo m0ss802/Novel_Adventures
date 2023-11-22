@@ -77,6 +77,13 @@ img {
     align-items: center;
 }
 
+.header-logo {
+    font-family: "Euphoria Script", Roboto;
+    color: #7e3257;
+    font-size: 48px;
+    font-weight: bold;
+}
+
 .top-banner {
     display: flex;
     padding: 8vh 10vw;
